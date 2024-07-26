@@ -1,8 +1,8 @@
-# Dream Journal App
+# DreamSage
 
 ## Description
 
-Dream Journal is a comprehensive web application designed to help users track, analyze, and share their dreams. Built with React and powered by Supabase, this app offers a rich set of features for dream enthusiasts and those interested in exploring their subconscious mind.
+DreamSage is a comprehensive web application designed to help users track, analyze, and share their dreams. Built with React and powered by Supabase, this app offers a rich set of features for dream enthusiasts and those interested in exploring their subconscious mind.
 
 ## Features
 
